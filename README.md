@@ -19,18 +19,23 @@ O fluxo de trabalho foi estruturado para garantir a máxima cobertura e rastreab
 O projeto iniciou-se no Jira, onde as funcionalidades foram detalhadas em Histórias de Usuário. Para cada história, foram definidos Critérios de Aceite claros, que serviram como base para a criação dos casos de teste, garantindo que o desenvolvimento e os testes estivessem perfeitamente alinhados.
 
 **Evidência:** Board Scrum no Jira com histórias para cadastro e login, e detalhe de uma História com seus Critérios de Aceite.
-![Jira Board com User Stories e Critérios de Aceite](http://googleusercontent.com/file_content/4)
+![Jira Board com User Stories e Critérios de Aceite](https://lucasqati.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?sprintCompleted=&atlOrigin=eyJpIjoiOGZkZTFmMzRkMjllNDZiYjlmNWQ1N2QzMTYwZjQ1ZjUiLCJwIjoiaiJ9)
+<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/6210e654-2dec-4405-b7f2-a9d931b9a244" />
+
 
 ### 2. Design e Estruturação de Testes (Qase.io)
 Com base nos requisitos do Jira, a suíte de testes `Autenticação de Usuário - Login` foi criada no Qase.io. Os casos de teste foram escritos utilizando o padrão **Gherkin (Given/When/Then)**, o que torna o teste compreensível tanto para perfis técnicos quanto para não técnicos.
+<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/82fa145d-3299-4e1a-978f-e68050e0d90b" />
+
 
 **Evidência:** Casos de teste detalhados no padrão Gherkin.
-![Detalhe de um Caso de Teste em Gherkin no Qase.io](http://googleusercontent.com/file_content/2)
+![Detalhe de um Caso de Teste em Gherkin no Qase.io](<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/39cc9b91-ec6e-40ee-94d1-faed3a5f8187" />)
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/1482c672-6c88-4dd0-aac5-674483b9dfb2" />
 
 A estrutura da suíte de testes foi planejada para cobrir cenários positivos, negativos e de validação de campos.
 
 **Evidência:** Repositório de testes com a suíte "Autenticação de Usuário - Login".
-![Repositório de Testes no Qase.io](http://googleusercontent.com/file_content/3)
+![Repositório de Testes no Qase.io](https://app.qase.io/project/ASDL?case=4&suite=1&tab=properties)
 
 ### 3. Execução de Testes e Identificação de Falhas
 O ciclo de testes foi executado para validar as funcionalidades. O histórico de execuções no Qase demonstra um cenário realista: **testes que inicialmente falharam**, indicando a identificação de bugs no sistema. Este é o principal objetivo do processo de QA: encontrar defeitos antes que cheguem ao usuário final.
