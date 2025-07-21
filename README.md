@@ -36,7 +36,9 @@ Com base nos requisitos do Jira, a suíte de testes `Autenticação de Usuário 
 A estrutura da suíte de testes foi planejada para cobrir cenários positivos, negativos e de validação de campos.
 
 **Evidência:** Repositório de testes com a suíte "Autenticação de Usuário - Login".
-![Repositório de Testes no Qase.io](https://app.qase.io/project/ASDL)
+![Repositório de Testes no Qase.io]
+<img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/0bdc2d03-b0f9-42f8-ae60-62fece660cc4" />
+
 
 ### 3. Execução de Testes e Identificação de Falhas
 O ciclo de testes foi executado para validar as funcionalidades. O histórico de execuções no Qase demonstra um cenário realista: **testes que inicialmente falharam**, indicando a identificação de bugs no sistema. Este é o principal objetivo do processo de QA: encontrar defeitos antes que cheguem ao usuário final.
@@ -45,6 +47,8 @@ O ciclo de testes foi executado para validar as funcionalidades. O histórico de
 ![Histórico de Execução com Testes Falhos]
 <img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/848653d6-1c8e-4e7a-a500-929ff2bd6389" />
 <img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/a2ab8028-d865-4b51-a00e-d77f0be6e3ab" />
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/4b55007b-97d9-49cf-886f-d15aef93e435" />
+
 
 
 ### 4. Relatórios e Validação Final (Ciclo de Reteste)
