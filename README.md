@@ -36,19 +36,23 @@ Com base nos requisitos do Jira, a suíte de testes `Autenticação de Usuário 
 A estrutura da suíte de testes foi planejada para cobrir cenários positivos, negativos e de validação de campos.
 
 **Evidência:** Repositório de testes com a suíte "Autenticação de Usuário - Login".
-![Repositório de Testes no Qase.io](https://app.qase.io/project/ASDL?case=4&suite=1&tab=properties)
+![Repositório de Testes no Qase.io](https://app.qase.io/project/ASDL)
 
 ### 3. Execução de Testes e Identificação de Falhas
 O ciclo de testes foi executado para validar as funcionalidades. O histórico de execuções no Qase demonstra um cenário realista: **testes que inicialmente falharam**, indicando a identificação de bugs no sistema. Este é o principal objetivo do processo de QA: encontrar defeitos antes que cheguem ao usuário final.
 
 **Evidência:** Histórico de um caso de teste mostrando execuções com status **"Failed"**, provando a identificação de bugs.
-![Histórico de Execução com Testes Falhos](http://googleusercontent.com/file_content/0)
+![Histórico de Execução com Testes Falhos]
+<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/848653d6-1c8e-4e7a-a500-929ff2bd6389" />
+<img width="1918" height="987" alt="image" src="https://github.com/user-attachments/assets/a2ab8028-d865-4b51-a00e-d77f0be6e3ab" />
+
 
 ### 4. Relatórios e Validação Final (Ciclo de Reteste)
 Após o reporte e a correção dos bugs identificados, um novo ciclo de testes (reteste) foi executado. O relatório final da "Express run" comprova que **todos os 5 casos de teste passaram com sucesso**, validando que as correções foram eficazes e que a funcionalidade atingiu os critérios de qualidade esperados.
 
 **Evidência:** Dashboard da execução de teste final com 100% de aprovação.
-![Relatório de Test Run com 100% de Sucesso](http://googleusercontent.com/file_content/1)
+![Relatório de Test Run com 100% de Sucesso]
+<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/6e9f4a37-e7a5-40c5-b7e3-57d7f601f59d" />
 
 ---
 
