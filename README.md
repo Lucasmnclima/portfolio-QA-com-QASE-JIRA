@@ -29,7 +29,8 @@ Com base nos requisitos do Jira, a suíte de testes `Autenticação de Usuário 
 
 
 **Evidência:** Casos de teste detalhados no padrão Gherkin.
-![Detalhe de um Caso de Teste em Gherkin no Qase.io](<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/39cc9b91-ec6e-40ee-94d1-faed3a5f8187" />)
+![Detalhe de um Caso de Teste em Gherkin no Qase.io]
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/39cc9b91-ec6e-40ee-94d1-faed3a5f8187" />
 <img width="1919" height="994" alt="image" src="https://github.com/user-attachments/assets/1482c672-6c88-4dd0-aac5-674483b9dfb2" />
 
 A estrutura da suíte de testes foi planejada para cobrir cenários positivos, negativos e de validação de campos.
