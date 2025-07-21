@@ -1,0 +1,1 @@
+# portfolio-QA-com-QASE-JIRA
