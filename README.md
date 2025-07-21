@@ -19,7 +19,7 @@ O fluxo de trabalho foi estruturado para garantir a máxima cobertura e rastreab
 O projeto iniciou-se no Jira, onde as funcionalidades foram detalhadas em Histórias de Usuário. Para cada história, foram definidos Critérios de Aceite claros, que serviram como base para a criação dos casos de teste, garantindo que o desenvolvimento e os testes estivessem perfeitamente alinhados.
 
 **Evidência:** Board Scrum no Jira com histórias para cadastro e login, e detalhe de uma História com seus Critérios de Aceite.
-![Jira Board com User Stories e Critérios de Aceite](https://lucasqati.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?sprintCompleted=&atlOrigin=eyJpIjoiOGZkZTFmMzRkMjllNDZiYjlmNWQ1N2QzMTYwZjQ1ZjUiLCJwIjoiaiJ9)
+![Jira Board com User Stories e Critérios de Aceite]
 <img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/6210e654-2dec-4405-b7f2-a9d931b9a244" />
 
 
